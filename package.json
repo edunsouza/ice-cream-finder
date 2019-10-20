@@ -1,0 +1,23 @@
+{
+  "name": "ice-cream-finder",
+  "version": "1.0.0",
+  "description": "Looking for the best ice cream ever? I can help you!",
+  "main": "index.js",
+  "scripts": {
+    "test": "freeze"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/edunsouza/ice-cream-finder"
+  },
+  "keywords": [
+    "icem",
+    "cream",
+    "finder"
+  ],
+  "author": "Eduardo Nascimento Souza",
+  "license": "ISC",
+  "dependencies": {
+    "yelp-fusion": "^3.0.0"
+  }
+}

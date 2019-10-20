@@ -1,0 +1,1 @@
+module.exports.NO_API_ERROR = "No API was configured";
