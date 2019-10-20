@@ -4,7 +4,8 @@ class ShopModel {
         this.id = id || 0;
         this.name = name || "No Name";
         this.address = address || "No Address";
-        this.city = city || "No City";
+        this.rating = rating || "No Rating";
+        this.price = price || "No Price";
         this.mainReview = mainReview || "No Review";
         Object.seal(this);
     }

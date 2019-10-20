@@ -9,4 +9,4 @@ class ReviewModel {
 
 }
 
-module.exports = ShopModel;
+module.exports = ReviewModel;

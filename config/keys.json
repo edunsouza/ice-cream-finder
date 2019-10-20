@@ -2,8 +2,7 @@
     "mainApi": "yelp",
     "availableApi": {
         "yelp": {
-            "clientId": "<your_client_id>",
-            "apiKey": "<your_api_key>"
+            "apiKey": null
         }
     }
 }
